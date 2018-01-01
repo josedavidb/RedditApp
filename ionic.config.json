@@ -1,0 +1,8 @@
+{
+  "name": "RedditApp",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
